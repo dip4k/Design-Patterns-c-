@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{C0CFF91D-B798-4802-83C5-0F9C11F2C56B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluent Builder", "Fluent Builder\Fluent Builder.csproj", "{36CF5424-CE73-454F-AAD0-3725E1346512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0CFF91D-B798-4802-83C5-0F9C11F2C56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CFF91D-B798-4802-83C5-0F9C11F2C56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CFF91D-B798-4802-83C5-0F9C11F2C56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CFF91D-B798-4802-83C5-0F9C11F2C56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CF5424-CE73-454F-AAD0-3725E1346512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CF5424-CE73-454F-AAD0-3725E1346512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CF5424-CE73-454F-AAD0-3725E1346512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CF5424-CE73-454F-AAD0-3725E1346512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D05267-A39B-4C51-B2ED-95FB8151E396}
+	EndGlobalSection
+EndGlobal
